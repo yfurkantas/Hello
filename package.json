@@ -1,5 +1,5 @@
 {
-  "name": "yfurkantas-Hello",
+  "name": "yfurkantas-hello",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
