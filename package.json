@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/releaseworks/hellonode/"
+    "url": "https://github.com/yfurkantas/Hello/"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "academy@release.works",
+  "author": "yfurkantas@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
